@@ -21,7 +21,7 @@ A Flask-based microservice that converts HTML files stored in AWS S3 to PDF docu
 1.  Clone the repository:
     ```bash
     git clone <repository-url>
-    cd wkhtml_pdf
+    cd html-to-pdf-service
     ```
 
 2.  Install dependencies:
