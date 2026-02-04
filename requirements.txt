@@ -1,0 +1,4 @@
+boto3
+Flask
+pdfkit
+dotenv
